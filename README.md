@@ -1,4 +1,4 @@
-## Hey 👋 I'm Arardhra:)
+## Hey 👋 I'm Aardhra:)
 
 Aspiring AI Engineer passionate about building intelligent systems and scalable applications.
 
